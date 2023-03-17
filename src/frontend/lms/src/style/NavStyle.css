@@ -1,0 +1,36 @@
+.nav-bar{
+    background-color: black;
+    display:flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+    height:5%;
+    width: 100%;
+   top: 0;
+}
+.nav{
+position: fixed;
+background-color: antiquewhite;
+width: 100%;
+z-index: 100;}
+.nav-bar ul li{
+   list-style: none;
+   padding-right: 1rem;
+   float: right;
+   display: flex;
+   flex-direction: row;
+   align-items: flex-end;
+   
+}
+
+ .nav-bar ul .a {
+    
+ text-decoration: none;
+ color:white;
+ font-weight: 600;
+padding-top: 5px;
+margin-right: 1rem;
+
+ 
+ }
+ 

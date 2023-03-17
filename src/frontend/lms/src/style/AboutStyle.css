@@ -1,0 +1,15 @@
+.abt{
+    font-weight: 600;
+    height: 75vh;
+    width: 100vw;
+    margin-top: -40%;
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    
+    color: white;
+}
+.indexBody{
+    background-color:  rgba(0, 0, 0, 0.6)
+}
+h1{
+    color: white;
+}

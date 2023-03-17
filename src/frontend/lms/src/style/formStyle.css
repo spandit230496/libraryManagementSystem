@@ -1,0 +1,13 @@
+
+.txt  div{
+    color:white;
+    padding:2rem;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.txt{
+    height: 15rem;
+    width: 25rem;
+    margin-top: -6rem;
+}

@@ -1,0 +1,20 @@
+import React from "react";
+import Navigation from "../component/Navigation.js";
+import Footer from "../component/Footer.js";
+import IndexStyle from '../style/IndexStyle.css'
+import LoginStudent from "../component/body/LoginStudent.js";
+
+
+function StudentLogin(){
+    
+    return (
+    <>
+    <Navigation/>
+    <LoginStudent/>
+    <Footer/>
+    
+    
+    
+    </>)
+}
+export default StudentLogin;
